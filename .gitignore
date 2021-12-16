@@ -1,0 +1,6 @@
+# Ignorar docuemntos de texto
+*.odt
+
+# Ignorar documentos de texto
+*.pdf
+*.txt
