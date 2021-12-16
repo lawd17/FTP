@@ -1,6 +1,6 @@
 # Infraestructura LAMP con Docker
 
-![docker-LAMP](capturas/logo.PNG)
+![00-logo](capturas/logo.png)
 
 # 1. Introducción.
 En esta guía vamos a ver como instalar y configura en protocolo FTP. Este protocolo es de los mas usados para la transferencia de archivos y carpetas. 
