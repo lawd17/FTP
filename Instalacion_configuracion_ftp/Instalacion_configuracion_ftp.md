@@ -1,4 +1,4 @@
-# Infraestructura LAMP con Docker
+# Instalación y configuración de FTP
 
 ![00-logo](capturas/logo.png)
 
